@@ -1,3 +1,5 @@
+# this repo is just for me to learn the usage of github.com  by flydragon2018
+
 # Bluelog
 
 *A blue blog.*
