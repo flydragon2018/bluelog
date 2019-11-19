@@ -39,3 +39,4 @@ $ pipenv install --dev --pypi-mirror https://mirrors.aliyun.com/pypi/simple
 
 This project is licensed under the MIT License (see the
 [LICENSE](LICENSE) file for details).
+# bluelog
